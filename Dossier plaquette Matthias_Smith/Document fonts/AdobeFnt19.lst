@@ -1,0 +1,57 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldCond
+FamilyName:Helvetica Neue
+StyleName:77 Bold Condensed
+MenuName:HelveticaNeue Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue 77 Bold Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue-BoldCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:17824
+FileModTime:1556124582
+NameArray:0,Mac,18,HelveticaNeue BoldCond
+NameArray:0,Mac,4,Helvetica Neue 77 Bold Condensed
+NameArray:0,Win,1,HelveticaNeue Condensed
+NameArray:0,Win,16,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightCond
+FamilyName:Helvetica Neue
+StyleName:47 Light Condensed
+MenuName:HelveticaNeue LightCond
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue 47 Light Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue-LightCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:17532
+FileModTime:1556124582
+NameArray:0,Mac,18,HelveticaNeue LightCond
+NameArray:0,Mac,4,Helvetica Neue 47 Light Condensed
+NameArray:0,Win,1,HelveticaNeue LightCond
+NameArray:0,Win,16,Helvetica Neue
+%EndFont
+
